@@ -1,0 +1,28 @@
+{
+  "name": "webdevprojekt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.4",
+    "next": "^14.0.4",
+    "next-auth": "^5.0.0-beta.5",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "stream": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.47",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}
